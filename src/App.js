@@ -8,6 +8,7 @@ class App extends Component {
         <h1 className="title">
           Hello, ITMentor!
           Hello, DIem Hoang
+          <h3 style={{color: "blue"}}>Demo Git</h3>
       </h1>
         <LifecycleComponent />
       </div>
