@@ -7,6 +7,7 @@ class App extends Component {
       <div style={{ textAlign: "center" }}>
         <h1 className="title">
           Hello, ITMentor!
+          Hello, DIem Hoang
       </h1>
         <LifecycleComponent />
       </div>
